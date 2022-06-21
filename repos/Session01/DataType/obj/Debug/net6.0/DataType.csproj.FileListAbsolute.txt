@@ -1,0 +1,15 @@
+C:\Users\Admin\source\CSharpApTech\repos\Session01\DataType\bin\Debug\net6.0\DataType.exe
+C:\Users\Admin\source\CSharpApTech\repos\Session01\DataType\bin\Debug\net6.0\DataType.deps.json
+C:\Users\Admin\source\CSharpApTech\repos\Session01\DataType\bin\Debug\net6.0\DataType.runtimeconfig.json
+C:\Users\Admin\source\CSharpApTech\repos\Session01\DataType\bin\Debug\net6.0\DataType.dll
+C:\Users\Admin\source\CSharpApTech\repos\Session01\DataType\bin\Debug\net6.0\DataType.pdb
+C:\Users\Admin\source\CSharpApTech\repos\Session01\DataType\obj\Debug\net6.0\DataType.csproj.AssemblyReference.cache
+C:\Users\Admin\source\CSharpApTech\repos\Session01\DataType\obj\Debug\net6.0\DataType.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\CSharpApTech\repos\Session01\DataType\obj\Debug\net6.0\DataType.AssemblyInfoInputs.cache
+C:\Users\Admin\source\CSharpApTech\repos\Session01\DataType\obj\Debug\net6.0\DataType.AssemblyInfo.cs
+C:\Users\Admin\source\CSharpApTech\repos\Session01\DataType\obj\Debug\net6.0\DataType.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\CSharpApTech\repos\Session01\DataType\obj\Debug\net6.0\DataType.dll
+C:\Users\Admin\source\CSharpApTech\repos\Session01\DataType\obj\Debug\net6.0\refint\DataType.dll
+C:\Users\Admin\source\CSharpApTech\repos\Session01\DataType\obj\Debug\net6.0\DataType.pdb
+C:\Users\Admin\source\CSharpApTech\repos\Session01\DataType\obj\Debug\net6.0\DataType.genruntimeconfig.cache
+C:\Users\Admin\source\CSharpApTech\repos\Session01\DataType\obj\Debug\net6.0\ref\DataType.dll

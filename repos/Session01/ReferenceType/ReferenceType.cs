@@ -18,5 +18,6 @@ class TestReference
     {
         int temp = 5;
         refer.valueVal = temp * 2;
+        Console.WriteLine(refer.valueVal);  
     }
 }

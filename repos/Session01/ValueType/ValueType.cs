@@ -13,5 +13,6 @@ class Example1
     {
         int temp = 5;
         valueVal = temp * 2;
+        Console.WriteLine(valueVal);
     }
 }

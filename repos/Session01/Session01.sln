@@ -5,27 +5,29 @@ VisualStudioVersion = 17.2.32602.215
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "First_prg", "First_prg\First_prg.csproj", "{A8D76CD4-D810-476F-A770-48235A02DBE4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataType", "DataType\DataType.csproj", "{BBD7A88C-6992-4339-A9AE-B9B8AB6B778C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataType", "DataType\DataType.csproj", "{BBD7A88C-6992-4339-A9AE-B9B8AB6B778C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValueType", "ValueType\ValueType.csproj", "{51D221AF-0D40-4801-B0E5-449A0C708CC7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ValueType", "ValueType\ValueType.csproj", "{51D221AF-0D40-4801-B0E5-449A0C708CC7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReferenceType", "ReferenceType\ReferenceType.csproj", "{1D2A8CAE-79E2-4800-9F9D-4FE5F8F9A572}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReferenceType", "ReferenceType\ReferenceType.csproj", "{1D2A8CAE-79E2-4800-9F9D-4FE5F8F9A572}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumberFormat", "NumberFormat\NumberFormat.csproj", "{B1E4B59F-D062-4ECF-9D05-67D60238FA99}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NumberFormat", "NumberFormat\NumberFormat.csproj", "{B1E4B59F-D062-4ECF-9D05-67D60238FA99}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DateTimeFormat", "DateTimeFormat\DateTimeFormat.csproj", "{E1EEC684-C5CA-4A4D-A942-F9C7CB9F8F02}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DateTimeFormat", "DateTimeFormat\DateTimeFormat.csproj", "{E1EEC684-C5CA-4A4D-A942-F9C7CB9F8F02}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImplicitilyTypedLocal", "ImplicitilyTypedLocal\ImplicitilyTypedLocal.csproj", "{CA92827E-C002-442B-BF0B-29FC369877C7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ImplicitilyTypedLocal", "ImplicitilyTypedLocal\ImplicitilyTypedLocal.csproj", "{CA92827E-C002-442B-BF0B-29FC369877C7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnonTypes", "AnonTypes\AnonTypes.csproj", "{130ED6D9-C74D-4083-867A-369CD3777784}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AnonTypes", "AnonTypes\AnonTypes.csproj", "{130ED6D9-C74D-4083-867A-369CD3777784}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise1", "Exercise1\Exercise1.csproj", "{1F383EDA-150A-4B49-AD8A-05B3A6262107}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercise1", "Exercise1\Exercise1.csproj", "{1F383EDA-150A-4B49-AD8A-05B3A6262107}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise2", "Exercise2\Exercise2.csproj", "{38865542-560F-43B0-9EEA-75253C517D5F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercise2", "Exercise2\Exercise2.csproj", "{38865542-560F-43B0-9EEA-75253C517D5F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise3", "Exercise3\Exercise3.csproj", "{4DC5ADC9-59E3-4E36-8A69-86B2361D0DF3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercise3", "Exercise3\Exercise3.csproj", "{4DC5ADC9-59E3-4E36-8A69-86B2361D0DF3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise4", "Exercise4\Exercise4.csproj", "{44F3D5CF-0B01-4FF0-BB02-99F0A84208DC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercise4", "Exercise4\Exercise4.csproj", "{44F3D5CF-0B01-4FF0-BB02-99F0A84208DC}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercise5", "Exercise5\Exercise5.csproj", "{2D65EB9D-FA27-4620-BA0E-E6205005A02D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -81,6 +83,10 @@ Global
 		{44F3D5CF-0B01-4FF0-BB02-99F0A84208DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{44F3D5CF-0B01-4FF0-BB02-99F0A84208DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{44F3D5CF-0B01-4FF0-BB02-99F0A84208DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D65EB9D-FA27-4620-BA0E-E6205005A02D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D65EB9D-FA27-4620-BA0E-E6205005A02D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D65EB9D-FA27-4620-BA0E-E6205005A02D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D65EB9D-FA27-4620-BA0E-E6205005A02D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

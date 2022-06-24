@@ -1,0 +1,15 @@
+C:\Users\Admin\source\CSharpApTech\repos\Session4\CodeSnippet13\bin\Debug\net6.0\CodeSnippet13.exe
+C:\Users\Admin\source\CSharpApTech\repos\Session4\CodeSnippet13\bin\Debug\net6.0\CodeSnippet13.deps.json
+C:\Users\Admin\source\CSharpApTech\repos\Session4\CodeSnippet13\bin\Debug\net6.0\CodeSnippet13.runtimeconfig.json
+C:\Users\Admin\source\CSharpApTech\repos\Session4\CodeSnippet13\bin\Debug\net6.0\CodeSnippet13.dll
+C:\Users\Admin\source\CSharpApTech\repos\Session4\CodeSnippet13\bin\Debug\net6.0\CodeSnippet13.pdb
+C:\Users\Admin\source\CSharpApTech\repos\Session4\CodeSnippet13\obj\Debug\net6.0\CodeSnippet13.csproj.AssemblyReference.cache
+C:\Users\Admin\source\CSharpApTech\repos\Session4\CodeSnippet13\obj\Debug\net6.0\CodeSnippet13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\CSharpApTech\repos\Session4\CodeSnippet13\obj\Debug\net6.0\CodeSnippet13.AssemblyInfoInputs.cache
+C:\Users\Admin\source\CSharpApTech\repos\Session4\CodeSnippet13\obj\Debug\net6.0\CodeSnippet13.AssemblyInfo.cs
+C:\Users\Admin\source\CSharpApTech\repos\Session4\CodeSnippet13\obj\Debug\net6.0\CodeSnippet13.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\CSharpApTech\repos\Session4\CodeSnippet13\obj\Debug\net6.0\CodeSnippet13.dll
+C:\Users\Admin\source\CSharpApTech\repos\Session4\CodeSnippet13\obj\Debug\net6.0\refint\CodeSnippet13.dll
+C:\Users\Admin\source\CSharpApTech\repos\Session4\CodeSnippet13\obj\Debug\net6.0\CodeSnippet13.pdb
+C:\Users\Admin\source\CSharpApTech\repos\Session4\CodeSnippet13\obj\Debug\net6.0\CodeSnippet13.genruntimeconfig.cache
+C:\Users\Admin\source\CSharpApTech\repos\Session4\CodeSnippet13\obj\Debug\net6.0\ref\CodeSnippet13.dll

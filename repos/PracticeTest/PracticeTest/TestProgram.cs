@@ -16,6 +16,8 @@ namespace PracticeTest
             Phone objPhone1 = new Phone(4, "PhoneOne", 1000);
             Phone objPhone2 = new Phone(5, "PhoneTwo", 1500);
 
+            Product[] productArr = {objBook1, objBook2, objBook3, objPhone1, objPhone2};
+
             double TotalBookTax = 0;
             double TotalPhoneTax = 0;
 
